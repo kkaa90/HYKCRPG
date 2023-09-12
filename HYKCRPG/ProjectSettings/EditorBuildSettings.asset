@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenuScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/SelectJobsScene.unity
+    guid: dd844231d24300849ac09fb94932feb9
+  - enabled: 1
+    path: Assets/Scenes/FirstLand/TutorialScene.unity
+    guid: 1b13b4e7a1393e84794d31eef8811784
+  - enabled: 1
+    path: Assets/Scenes/FirstLand/TutorialScene2.unity
+    guid: 5d83ab74b07126644af5b0224bc49704
+  m_configObjects: {}
